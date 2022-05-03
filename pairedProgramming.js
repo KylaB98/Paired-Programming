@@ -22,4 +22,5 @@ function splitOddAndEven(numbers) {
     return returnObject;
   }
 console.log(splitOddAndEven([1, 2, 3, 4, 5]));
-console.log(splitOddAndEven([0, 3, 5, 9, 10]));
+console.log(splitOddAndEven([0, 3, 5, 9, 10])); 
+//Adding Text
