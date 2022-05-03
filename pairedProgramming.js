@@ -23,3 +23,4 @@ function splitOddAndEven(numbers) {
   }
 console.log(splitOddAndEven([1, 2, 3, 4, 5]));
 console.log(splitOddAndEven([0, 3, 5, 9, 10]));
+//this is a comment
